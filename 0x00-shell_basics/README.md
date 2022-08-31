@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files (starting with .). Use the long format
+-m Display current directory contents
