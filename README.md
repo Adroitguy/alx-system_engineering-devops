@@ -1,1 +1,1 @@
-some shell basics
+Some shell basics and permissions
